@@ -1,0 +1,5 @@
+## Connect like this:
+
+LED long leg (+) → Arduino Pin 13
+LED short leg (-) → 220Ω resistor
+Resistor → Arduino GND
