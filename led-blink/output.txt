@@ -1,0 +1,3 @@
+LED turns ON for 1 second
+LED turns OFF for 1 second
+Repeats forever
