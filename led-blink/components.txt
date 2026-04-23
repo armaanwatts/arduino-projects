@@ -1,0 +1,8 @@
+## Components Required
+
+- Arduino Uno
+- 1 × LED
+- 1 × 220Ω resistor
+- Breadboard (optional but recommended)
+- Jumper wires
+- USB cable
