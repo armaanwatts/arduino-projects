@@ -1,0 +1,6 @@
+1. Open Arduino IDE
+2. Connect Arduino Uno via USB
+3. Go to:
+           Tools → Board → Arduino Uno
+           Tools → Port → Select correct COM port
+4. Click Upload (→ button)
